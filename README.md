@@ -22,7 +22,7 @@ A React Native/Expo mobile app for offline language learning with video lessons.
 
 1. Clone and navigate to the project:
    ```bash
-   cd video-gpu-demo
+   cd hidden-torch-offline
    ```
 
 2. Install dependencies:
